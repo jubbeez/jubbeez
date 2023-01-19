@@ -10,4 +10,4 @@ Faço alguns outros cursos por fora, para aprimorar meu conhecimento.
 <a href="https://www.linkedin.com/in/Júlia-Guarnieri-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 ### Meu email para contato:
-<a href = "mailto:contato@juliaguarnieribs"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "juliaguarnieribs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
