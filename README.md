@@ -3,8 +3,10 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 Atualmente estou cursando Engenharia de Software, com previsão para Agosto de 2026. 
-Consegui a oportunidade de entrar no projeto One Next Education, uma parceria da Oracle com a Alura.
-Faço alguns outros cursos por fora, para aprimorar meu conhecimento.
+
+Consegui a oportunidade de entrar no projeto One Next Education, uma parceria da Oracle com a Alura. E estou aprendendo Lógica de Programação, HTML, CSS e JavaScript; com projetos reais e que trago para meu perfil.
+
+Faço alguns outros cursos por fora, como Python e C#, para aprimorar cada vez mais meus conhecimentos em programação.
 
 ### Convido você a me conhecer no LinkedIn:
 <a href="https://www.linkedin.com/in/Júlia-Guarnieri-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
