@@ -1,16 +1,13 @@
-### Hi there 👋
+# Olá, me chamo Júlia! 
 
-<!--
-**jubbeez/jubbeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bem vindo ao meu perfil GitHub 👋
 
-Here are some ideas to get you started:
+Atualmente estou cursando Engenharia de Software, com previsão de término em Agosto de 2026. 
+Consegui a oportunidade de entrar no projeto One Next Education, uma parceria da Oracle com a Alura.
+Faço alguns outros cursos por fora, para aprimorar meu conhecimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Convido você a me conhecer no LinkedIn:
+<a href="https://www.linkedin.com/in/Júlia-Guarnieri-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+
+### Meu email para contato:
+<a href = "mailto:contato@juliaguarnieribs"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
