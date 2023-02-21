@@ -3,8 +3,11 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 Atualmente estou cursando Engenharia de Software, com previsão para Agosto de 2026. 
+                   
+Participo do projeto One Next Education, uma parceria da Oracle com a Alura. E estou aprendendo Lógica de Programação, HTML, CSS e JavaScript;
+Além de diversos cursos de Soft Skills.
 
-Consegui a oportunidade de entrar no projeto One Next Education, uma parceria da Oracle com a Alura. E estou aprendendo Lógica de Programação, HTML, CSS e JavaScript; com projetos reais e que trago para meu perfil.
+Crio e reproduzo projetos meus, e de outros desenvolvedores, para aprender conceitos e novas técnicas.
 
 Faço alguns outros cursos por fora, como Python e C#, para aprimorar cada vez mais meus conhecimentos em programação.
 
