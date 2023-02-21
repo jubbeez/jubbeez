@@ -4,7 +4,7 @@
 
 Atualmente estou cursando Engenharia de Software, com previsão para Agosto de 2026. 
                    
-Participo do projeto One Next Education, uma parceria da Oracle com a Alura. E estou aprendendo Lógica de Programação, HTML, CSS e JavaScript;
+Participo do projeto One Next Education, uma parceria da Oracle com a Alura, onde estou aprendendo Lógica de Programação, HTML, CSS e JavaScript;
 Além de diversos cursos de Soft Skills.
 
 Crio e reproduzo projetos meus, e de outros desenvolvedores, para aprender conceitos e novas técnicas.
