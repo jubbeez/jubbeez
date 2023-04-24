@@ -13,7 +13,7 @@ Faço alguns outros cursos por fora, como Python e C#, para aprimorar cada vez m
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?jubbeez=karanalpe&layout=compact)](https://github.com/jubbeez/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/jubbeez/github-readme-stats)
 
 ### Convido você a me conhecer no LinkedIn:
 <a href="https://www.linkedin.com/in/Júlia-Guarnieri-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
