@@ -11,6 +11,8 @@ Crio e reproduzo projetos meus, e de outros desenvolvedores, para aprender conce
 
 Faço alguns outros cursos por fora, como Python e C#, para aprimorar cada vez mais meus conhecimentos em programação.
 
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Convido você a me conhecer no LinkedIn:
 <a href="https://www.linkedin.com/in/Júlia-Guarnieri-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
