@@ -2,10 +2,9 @@
 
 ## Bem vindo ao meu perfil GitHub 👋
 
-Atualmente estou cursando Engenharia de Software, com previsão para Agosto de 2026. 
-                   
-Participo do projeto One Next Education, uma parceria da Oracle com a Alura, onde estou aprendendo Lógica de Programação, HTML, CSS e JavaScript;
-Além de diversos cursos de Soft Skills.
+Atualmente estou cursando Engenharia de Software, com previsão para Agosto de 2026.
+
+Trabalho como EDI Analyst na Sintel S.A. onde trato soluções e inovações do nosso software e converso diretamente com nossos clientes.
 
 Crio e reproduzo projetos meus, e de outros desenvolvedores, para aprender conceitos e novas técnicas.
 
